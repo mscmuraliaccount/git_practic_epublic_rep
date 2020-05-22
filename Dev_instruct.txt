@@ -1,2 +1,3 @@
 Ready for dev
 We are testing now
+Testing phase 1 completed. Tjis line will have to be merged with local repository.
